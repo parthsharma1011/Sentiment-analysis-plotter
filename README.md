@@ -11,15 +11,15 @@ Sentiment Analysis Plotter plots the overall sentiment of a given hastag eg:#tes
 
 ## Program Inputs
 
-<img src="images/one.png" width="600">
+<img src="images/one.png" width="750">
 
 ## Multiprocessing using ray
 
-<img src="images/two.png" width="600">
+<img src="images/two.png" width="750">
 
 ## Original Code (Sequential)
 
-<img src="images/three.png" width="600">
+<img src="images/three.png" width="750">
 
 ## Getting Started
 
