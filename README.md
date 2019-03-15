@@ -1,3 +1,5 @@
+[![Gitter](https://img.shields.io/gitter/room/DAVFoundation/DAV-Contributors.svg?style=flat-square)](https://gitter.im/DAVFoundation/DAV-Contributors)
+
 # Sentiment Analysis Plotter
 
 Sentiment Analysis Plotter plots the overall sentiment of a given hastag eg:#tesla, #india etc.
