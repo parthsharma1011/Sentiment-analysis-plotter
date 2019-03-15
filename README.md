@@ -2,7 +2,7 @@
 
 # Sentiment Analysis Plotter
 
-Sentiment Analysis Plotter plots the overall sentiment of a given hastag eg:#tesla, #india etc.
+Sentiment Analysis Plotter plots the overall sentiment of a given hastag eg:#tesla, #india etc etc.
 
 
 ## Twitter plot
