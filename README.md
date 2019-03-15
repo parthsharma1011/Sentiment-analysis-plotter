@@ -5,13 +5,13 @@ Sentiment Analysis Plotter plots the overall sentiment of a given hastag eg:#tes
 
 ## Model run
 
-<img src="images/tweetplot.png" width="100">
+<img src="images/tweetplot.png" width="600">
 
-<img src="images/one.png" width="100">
+<img src="images/one.png" width="600">
 
-<img src="images/two.png" width="100">
+<img src="images/two.png" width="600">
 
-<img src="images/three.png" width="100">
+<img src="images/three.png" width="600">
 
 ## Getting Started
 
