@@ -1,4 +1,4 @@
-[![Gitter](https://img.shields.io/gitter/room/DAVFoundation/DAV-Contributors.svg?style=flat-square)](https://gitter.im/DAVFoundation/DAV-Contributors)
+[![Gitter](https://badges.gitter.im/Sentiment-Analysis-Plotter/community.svg)](https://gitter.im/Sentiment-Analysis-Plotter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Sentiment Analysis Plotter
 
