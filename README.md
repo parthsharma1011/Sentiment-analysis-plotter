@@ -15,7 +15,7 @@ Sentiment Analysis Plotter plots the overall sentiment of a given hastag eg:#tes
 
 <img src="images/two.png" width="600">
 
-##Original Code (Sequential)
+## Original Code (Sequential)
 
 <img src="images/three.png" width="600">
 
