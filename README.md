@@ -7,7 +7,7 @@ Sentiment Analysis Plotter plots the overall sentiment of a given hastag eg:#tes
 
 ## Twitter plot
 
-<img src="images/tweetplot.png" width="600">
+<img src="images/tweetplot.png" width="800">
 
 ## Program Inputs
 
