@@ -3,13 +3,19 @@
 Sentiment Analysis Plotter plots the overall sentiment of a given hastag eg:#tesla, #india etc.
 
 
-## Model run
+## Twitter plot
 
 <img src="images/tweetplot.png" width="600">
 
+## Program Inputs
+
 <img src="images/one.png" width="600">
 
+## Multiprocessing using ray
+
 <img src="images/two.png" width="600">
+
+##Original Code (Sequential)
 
 <img src="images/three.png" width="600">
 
