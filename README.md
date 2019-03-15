@@ -1,4 +1,4 @@
-[![Gitter](https://badges.gitter.im/Sentiment-Analysis-Plotter/community.svg)](https://gitter.im/Sentiment-Analysis-Plotter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://github.com/parthsharma1011/Sentiment-analysis-plotter/commit/)
+[![Gitter](https://badges.gitter.im/Sentiment-Analysis-Plotter/community.svg)](https://gitter.im/Sentiment-Analysis-Plotter/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![GitHub commits](https://img.shields.io/github/commits-since/Naereen/StrapDown.js/v1.0.0.svg)](https://github.com/parthsharma1011/Sentiment-analysis-plotter/commit/)
 
 # Sentiment Analysis Plotter
 
