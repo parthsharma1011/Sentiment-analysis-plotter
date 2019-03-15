@@ -116,6 +116,7 @@ class SentimentAnalysis :
         gs_clf = GridSearchCV(model, params, n_jobs=1, cv=5)
         gs_clf = gs_clf.fit(X_train, y_train)
         model = gs_clf.best_estimator_
+        #todo:
 
         # Use best model and test data for final evaluation
         y_pred = model.predict(X_test)
